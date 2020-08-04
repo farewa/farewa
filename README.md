@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I'm Foluso 
 
-<!--
-**farewa/farewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently a tutor and full stack developer at [Northcoders](https://northcoders.com/) (a full stack 12 week coding bootcamp based in Manchester, UK), a mentor with [InnovateHer](https://innovateher.co.uk/) (a programme for secondary school aged girls that encourgaes them to pick STEM subjects for their GCSE's/A Levels) and a local community volunteer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about
+- Removing barriers to entry in the tech community
+- Learning to code (from scratch 😄)
+
+
+ 🥰 What I love at the moment
+ - Mock Service Worker
+ - GraphQL
+ - Styled Components
+ - Collaborating on projects over zoom (though I miss people)
+ 
+ You can reach me through my [LinkedIn profile](www.linkedin.com/in/f-arewa)
+ 
+ 
