@@ -14,6 +14,6 @@ I'm currently a tutor and full stack developer at [Northcoders](https://northcod
  - Styled Components
  - Collaborating on projects over zoom (though I miss people)
  
- You can reach me through my [LinkedIn profile](www.linkedin.com/in/f-arewa)
+ You can reach me through my [LinkedIn](www.linkedin.com/in/f-arewa)
  
  
